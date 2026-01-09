@@ -14,7 +14,7 @@ _termux_
 pkg update
 pkg upgrade
 pkg install git
-git clone https://github.com/gustavoDe1781/ddosudo.git
+git clone https://github.com/gustavoDe1781/DdosBor.git
 cd ddos.py
 python ddos.py
 ```
@@ -32,7 +32,7 @@ sudo apt update && sudo apt upgrade -y
 Instala Python e pip (se não tiver):
 sudo apt install python3 python3-pip -y
 pip3 install requests
-wget https://github.com/gustavoDe1781/ddosudo.git
+wget https://github.com/gustavoDe1781/DdosBor.git
 chmod +x ddos.py
 python3 ddos.py
 ```
