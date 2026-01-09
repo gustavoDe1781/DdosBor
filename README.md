@@ -23,6 +23,7 @@ python ddos.py
 pip install requests
 python -m pip install --upgrade pip
 python -m pip install requests
+git clone https://github.com/gustavoDe1781/DdosBor
 Executa:
 python ddos.py
 ```
@@ -35,6 +36,7 @@ pip3 install requests
 wget https://github.com/gustavoDe1781/DdosBor.git
 chmod +x ddos.py
 python3 ddos.py
+ou python ddos.py
 ```
 _ou se precisar de sudo_:
 ```
